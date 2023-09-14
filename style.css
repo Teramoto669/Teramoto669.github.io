@@ -95,13 +95,14 @@ body {
 	display: block;
 	margin: 0.7vw 1.7vw;
 	position: fixed;
-	-webkit-text-stroke: 0.07547169811320754vw rgb(0, 0, 0);
-	transition: 0.3s ease-in-out;
+	-webkit-text-stroke: 1px rgb(0, 0, 0);
+    transition: 0.3s ease-in-out;
 }
 
 .HomeBar .tt a:hover {
 	color: rgb(139, 14, 14);
 	display: block;
+    transition: 0.3s ease-in-out;
 }
 
 .HomeBar a {
@@ -145,16 +146,17 @@ body {
 .tag {
 	font-size: 2.2vw;
 	position: absolute;
-	right: 3.2vw;
+	right: 2vw;
 	display: flex;
 	top: 1.2vw;
-	max-width: 12vw;
-	max-height: 12vw;
-	transition: 0.3s ease-in-out;
+	margin-right: 0vw;
+	margin-top: 0vw;
+    transition: 0.3s ease-in-out;
 }
 
 .imgig {
 	position: absolute;
+	margin-top: 0.1vw;
 	right: 15.8vw;
 	max-height: 3.5vw;
 	max-width: 3.5vw;
@@ -182,12 +184,12 @@ h1 {
 	padding: 1.4vw;
 	text-align: center;
 	font-weight: bold;
-	font-size: 2.71vw;
+	font-size: 36px;
 	line-height: 4.5vw;
 }
 .penulis {
 	padding-left: 2vw;
-	font-size: 1.22vw;
+	font-size: 16px;
 }
 
 .main {
@@ -197,23 +199,25 @@ h1 {
 }
 
 .buka {
-	text-indent: 42px;
+	text-indent: 3.2vw;
 }
 
 .buka2 {
-	text-indent: 42px;
+	text-indent: 3.2vw;
 }
 
 h2 {
 	padding: 2vw;
-	font-size: 33px;
+	font-size: 32px;
 	font-weight: bold;
+	text-align: center;
 }
 
 h4 {
 	padding: 2vw;
 	font-size: 24px;
 	font-weight: bold;
+	text-align: center;
 }
 
 .agensi2 {

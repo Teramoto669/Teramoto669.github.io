@@ -117,11 +117,9 @@ body {
 .HomeBar ul {
 	position: absolute;
 }
-.HomeBar .vid {
-	margin-top: 3.1vw;
-}
 .HomeBar .pp {
 	margin-left: 27.6vw;
+	margin-top: 0.8vw;
 }
 .HomeBar .ll {
 	padding-left: 3.2vw;
@@ -133,16 +131,17 @@ body {
 .tag {
 	font-size: 2.2vw;
 	position: absolute;
-	right: 3.2vw;
+	right: 2vw;
 	display: flex;
 	top: 1.2vw;
-	max-width: 12vw;
-	max-height: 12vw;
+	margin-right: 0vw;
+	margin-top: 0vw;
     transition: 0.3s ease-in-out;
 }
 
 .imgig {
 	position: absolute;
+	margin-top: 0.1vw;
 	right: 15.8vw;
 	max-height: 3.5vw;
 	max-width: 3.5vw;
