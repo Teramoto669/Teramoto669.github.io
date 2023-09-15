@@ -156,9 +156,9 @@ body {
 
 .imgig {
 	position: absolute;
-	margin-top: 0.1vw;
+	padding: 0.1vw;
 	right: 15.8vw;
-	max-height: 3.5vw;
+	max-height: 6.973684210526316vh;
 	max-width: 3.5vw;
 	display: flex;
 }
@@ -319,7 +319,7 @@ italic {
 .copyright {
 	background-color: rgb(22, 34, 141);
 	width: 60.377vw;
-	height: 2.7vw;
+	height: 35.775000000000006px;
 	margin: auto;
 	text-align: center;
 	line-height: 2.7vw;
