@@ -184,15 +184,15 @@ body {
 }
 .Vruber h1 {
 	padding-top: 19.875px;
-	padding-bottom: 2.5vw;
+	padding-bottom: 2.5vh;
 	text-align: left;
 	font-weight: bold;
-	font-size: 2.71vw;
+	font-size: 2.71vh;
 }
 
 .pgf1 {
-    padding-right: 1vw;
-	font-size: 16px;
+    padding-right: 2vh;
+	font-size: 2.406015037593985vh;
 }
 .insta figure img{
 	opacity: 1;
@@ -202,24 +202,13 @@ body {
 .insta figure:hover img{
 	opacity: .8;
 }
-.pp figure {
+.HomeBar figure {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
-.pp figure:hover{
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
-}
-.ll figure {
-	-webkit-transform: scale(1);
-	transform: scale(1);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
-}
-
-.ll figure:hover{
+.HomeBar figure:hover{
 	-webkit-transform: scale(1.15);
 	transform: scale(1.15);
 }
