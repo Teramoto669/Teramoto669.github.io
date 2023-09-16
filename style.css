@@ -179,7 +179,14 @@ body {
 	background-repeat: no-repeat;
 	border-bottom: 0.37vw solid rgb(22, 34, 141);
 }
-
+.kobo {
+	background-image: url(img/Kobo-kaneru.jpg);
+	height: 35vw;
+	background-size: cover;
+	background-position: 0vw 2.022556390977444vh;
+	background-repeat: no-repeat;
+	border-bottom: 0.37vw solid rgb(22, 34, 141);
+}
 h1 {
 	padding: 1.4vw;
 	text-align: center;
